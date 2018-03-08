@@ -1,0 +1,19 @@
+body{
+  background-color: Lavender;
+}
+
+.wrapper{
+  width: 800px;
+  background-color: aliceblue;
+  border-style: groove groove groove groove;
+  border-color: rebeccapurple;
+  border-radius: 12px;
+  margin: auto;
+  text-align: center;
+}
+
+#myAssignment{
+
+  font-family: fiebel;
+  font-size: 120px;
+}
